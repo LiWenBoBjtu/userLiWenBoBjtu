@@ -5,3 +5,5 @@ lwb_new local branch
 99999999999999999999999999999999999999
 
 lwb_new branch
+
+git clone base
